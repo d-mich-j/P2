@@ -10,7 +10,7 @@ public class Receta
     public Receta(string nombre, string chef, int tiempoMinuto) {
         Nombre = nombre;
         Chef = chef;
-        
+        //...
     }
     
 }
