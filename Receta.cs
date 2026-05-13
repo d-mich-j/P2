@@ -1,10 +1,16 @@
 ﻿using System;
 
-public class Class1 
+public class Receta 
 {
     public string Nombre { get; }
     public string Chef { get; }
     public int TiempoMinutos { get; }
+    
 
-    ToStrng 
+    public Receta(string nombre, string chef, int tiempoMinuto) {
+        Nombre = nombre;
+        Chef = chef;
+        
+    }
+    
 }
