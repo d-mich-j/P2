@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace SistemaRecetas.Interfaces;
+
+public interface IReceta
+{
+    string Nombre { get; }
+    string Chef { get; }
+    int TiempoMinutos { get; }
+    string ToString();
+}
