@@ -113,10 +113,10 @@ while (continuar)
                     .ToList();
 
                 Console.WriteLine($"\nReceta encontrada en índice [{indice}]: {copiaOrdenada[indice]}");
-                Console.Write($"¿Deseas agregarla al libro '{libroActual}'? (Escribe el índice para agregar o 0 para cancelar): ");
+                Console.Write($"¿Deseas agregarla al libro '{libroActual}'? (Escribe el índice para agregar o 10 para cancelar): ");
 
                 string? respuesta = Console.ReadLine();
-                if (!int.TryParse(respuesta, out int seleccion) || seleccion == 0)
+                if (!int.TryParse(respuesta, out int seleccion) || seleccion == 10)
                 {
                     Console.WriteLine("Operación cancelada.");
                 }
