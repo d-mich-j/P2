@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "iNTERFACES", "iNTERFACES", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MODELOS", "MODELOS", "{5418006C-B1EA-41C4-AEAA-2DC178940C71}"
+	ProjectSection(SolutionItems) = preProject
+		Receta.cs = Receta.cs
+		usuario.cs = usuario.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GESTORES", "GESTORES", "{E5488573-6C3C-4D98-A181-A7392F0283E7}"
 EndProject
