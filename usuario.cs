@@ -1,5 +1,5 @@
 Using System;
-namespace SistemaRecetas.Modelos;
+namespace SistemaRecetas.Modelos; hol<>
 
 public class Usuario
 {
