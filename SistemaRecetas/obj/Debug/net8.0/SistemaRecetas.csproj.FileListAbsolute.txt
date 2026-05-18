@@ -1,0 +1,14 @@
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\bin\Debug\net8.0\SistemaRecetas.exe
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\bin\Debug\net8.0\SistemaRecetas.deps.json
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\bin\Debug\net8.0\SistemaRecetas.runtimeconfig.json
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\bin\Debug\net8.0\SistemaRecetas.dll
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\bin\Debug\net8.0\SistemaRecetas.pdb
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.AssemblyInfo.cs
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.dll
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\refint\SistemaRecetas.dll
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.pdb
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\SistemaRecetas.genruntimeconfig.cache
+C:\Users\Alumnos\Downloads\SistemaRecetas\SistemaRecetas\SistemaRecetas\obj\Debug\net8.0\ref\SistemaRecetas.dll
