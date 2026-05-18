@@ -1,6 +1,6 @@
 ﻿using SistemaRecetas.Interfaces;
 
-namespace SistemaRecetas.Modelos;////ooooo
+namespace SistemaRecetas.Modelos;
 
 public class Receta : IReceta
 {
