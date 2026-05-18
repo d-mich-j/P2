@@ -23,3 +23,4 @@ public class Receta : IReceta
         return $"{Nombre} - {Chef} ({TiempoMinutos} min)";
     }
 }
+holaaaaaaaaaaaaaaa
